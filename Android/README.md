@@ -1,9 +1,9 @@
 
 ## Learn with Game
-our projects contain educational games such as Find alphabets, Crazy mushroom etc. to further enhance the learning experience for elementary students. These games are designed to be fun, engaging, and educational, making it easy for students to learn while they play.
+our projects contain educational games such as Crazy alphabets, Pretty mushroom etc. to further enhance the learning experience for elementary students. These games are designed to be fun, engaging, and educational, making it easy for students to learn while they play.
 
 ## Instructions to use
--> Download the app, experience th learning with games. 
+-> Download the app, experience the learning with games. 
 
 ## 🔗 APP Link
 [![App Link]](https://drive.google.com/drive/u/0/folders/1VHlDCe4mFjjYb2RHD6dWfUxB1NJlvBnx?lfhs=2)
