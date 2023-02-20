@@ -8,8 +8,8 @@ Kara is a simple, engaging, and interactive learning App for kids, focusing on S
 ## INSTRUCTIONS TO USE OUR PROJECT
 ->Our app several AR models and andriod part.</br>
 ->We have created seperate folder for each of them like- folder name AR, Android etc.</br>
-->Within AR folder, there are all the seperate AR modules of our project and same for android.</br>
-->We have created seperate readme for each of them which clearly provide the instructions to use the modules</br>
+->Within AR folder, all seperate AR modules of our project are present and same for android.</br>
+->We have created seperate readme for each of them which clearly provide the instructions to use the modules.</br>
 ## Demo
 
 ![](poster.jpeg)
