@@ -10,5 +10,11 @@ other resources.
 
 ![Image of Yaktocat](./simulation.gif)
 
-It was pretty fun project that helped me get familiar with the unity UI and it's tools.
-Most of the code was provided by the course, except for the UI menu.
+
+## 🔗 APP Link
+[App Link 👉](https://drive.google.com/drive/u/0/folders/1VHlDCe4mFjjYb2RHD6dWfUxB1NJlvBnx?lfhs=2)
+
+## App Instructions
+1. On clicking of planet, focus of view changed to that planet, Zoom view is open.
+2. when you perform below action, on any planet, it give information of that planet ![](action.png)
+
