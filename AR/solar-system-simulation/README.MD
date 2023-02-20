@@ -12,9 +12,10 @@ other resources.
 
 
 ## 🔗 APP Link
-[App Link 👉](https://drive.google.com/drive/u/0/folders/1VHlDCe4mFjjYb2RHD6dWfUxB1NJlvBnx?lfhs=2)
+[👉  App Link](https://drive.google.com/drive/u/0/folders/1VHlDCe4mFjjYb2RHD6dWfUxB1NJlvBnx?lfhs=2)
 
 ## App Instructions
 1. On clicking of planet, focus of view changed to that planet, Zoom view is open.
-2. when you perform below action, on any planet, it give information of that planet ![](action.png)
+2. when you perform below action, on any planet, it give information of that planet 
+![](action.gif)
 
