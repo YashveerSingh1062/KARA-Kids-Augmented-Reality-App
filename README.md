@@ -21,7 +21,7 @@ Kara is a simple, engaging, and interactive learning App for kids, focusing on S
 
 ### AR Model - An AR model of the various parts of a human body. Helps remember the names better .
 
-![](<img src="bodyParts.jpeg" width="324" height="324"> )
+![<img src="bodyParts.jpeg" width="324" height="324">]
 
 ### AR Model - Playing with alphabets - This is a visual aid which helps in learning alphabets.
 
