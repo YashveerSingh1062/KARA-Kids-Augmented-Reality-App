@@ -6,10 +6,10 @@ KARA targets the Kids, using our AR and VR-driven content based on our current N
 
 Kara is a simple, engaging, and interactive learning App for kids, focusing on STEM-based learning using Extended Reality and Mixed reality. It works on the basis of creating a virtual world – real or fictional – that users can see and interact with.
 ## INSTRUCTIONS TO USE OUR PROJECT
-->Our app several AR models and andriod part.
-->We have created seperate folder for each of them like- folder name AR, Android etc.
-->Within AR folder, there are all the seperate AR modules of our project and same for android.
-->We have created seperate readme for each of them which clearly provide the instructions to use the modules
+->Our app several AR models and andriod part.</br>
+->We have created seperate folder for each of them like- folder name AR, Android etc.</br>
+->Within AR folder, there are all the seperate AR modules of our project and same for android.</br>
+->We have created seperate readme for each of them which clearly provide the instructions to use the modules</br>
 ## Demo
 
 ![](poster.jpeg)
