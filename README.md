@@ -17,11 +17,11 @@ Kara is a simple, engaging, and interactive learning App for kids, focusing on S
 ## Features
 ### AR Model - A VR model of the solar system which gives you an ultimate experience of the universe as you can watch various features of the solar system.
 
-![](SolarSystem.jpeg )
+![<img src ="SolarSystem.jpeg" width ="500" height = "300">]
 
 ### AR Model - An AR model of the various parts of a human body. Helps remember the names better .
 
-![<img src="bodyParts.jpeg" width="324" height="324">]
+![<img src="bodyParts.jpeg" width="500" height="300">]
 
 ### AR Model - Playing with alphabets - This is a visual aid which helps in learning alphabets.
 
