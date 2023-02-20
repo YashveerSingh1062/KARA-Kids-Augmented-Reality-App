@@ -17,5 +17,6 @@ other resources.
 ## App Instructions
 1. On clicking of planet, focus of view changed to that planet, Zoom view is open.
 2. when you perform below action, on any planet, it give information of that planet 
+
 ![](action.gif)
 
