@@ -1,9 +1,7 @@
 # Super Simple Unity Solar System Simulation
 
 
-Solar System Simulation project from the coursera course: introduction to Game Development Michigan State University. 
-My version is a bit different from the original, it has background music and a simple UI from a unity tutorial and 
-other resources.
+Our project has the potential to include a virtual reality (VR) visualization of the solar system. This feature would provide students with a unique and immersive learning experience, allowing them to explore and understand the relationships between the planets, stars, and other celestial objects in our solar system.
 
 
 *Here's a gif of the simulation system:*
