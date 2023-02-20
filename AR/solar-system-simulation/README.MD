@@ -16,5 +16,5 @@ Our project has the potential to include a virtual reality (VR) visualization of
 1. On clicking of planet, focus of view changed to that planet, Zoom view is open.
 2. when you perform below action, on any planet, it give information of that planet 
 
-![](action.gif)
+<img src = "action.gif" width = "250" height = "250">
 
