@@ -9,5 +9,5 @@ our projects contain educational games such as Find alphabets, Crazy mushroom et
 [![App Link]](https://drive.google.com/drive/u/0/folders/1VHlDCe4mFjjYb2RHD6dWfUxB1NJlvBnx?lfhs=2)
 
 ## Games Images
-<img src="crazy alphabets.png" width="500" height="324"> <img src="pretty musroom.png" width="500" height="324">
+<img src="crazy alphabets.png" width="530" height="324"> <img src="pretty musroom.png" width="530" height="324">
 
