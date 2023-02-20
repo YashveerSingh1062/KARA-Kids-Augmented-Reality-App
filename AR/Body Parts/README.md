@@ -10,5 +10,5 @@ In this project, Augmentation of Introduction of body Parts by an marker...
 [👉  App Link](https://drive.google.com/file/d/1hW45RbGxn7nV9V1lHFEtvgWDR4ykeYSZ/view?usp=share_link)
 
 ## App marker
-<img src = "bodyparts.jpg" width = "250" height = "500">
+<img src = "bodyparts.jpg" width = "350" height = "500">
 
